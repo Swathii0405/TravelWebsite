@@ -1,7 +1,7 @@
 
 import Main from "../Main/Main";
 import Navbar from "../Navbar/Navbar";
-import video from "../../src/Assets/Videos/video2.mp4"
+import video from "../Assets/Videos/video2.mp4";
 import Destination from "../Destination/Destination";
 import Trip from "../Trip/Trip";
 import Footer from "../Footer/Footer";
@@ -13,7 +13,7 @@ const Home = () => {
     <>
       <Navbar />
       <div className="video-container">
-        <video src={video} muted autoPlay loop type="video/mp4"></video>
+        <video src={video} muted autoPlay loop type="video2/mp4"></video>
       </div>
       <Main
         cName="main"

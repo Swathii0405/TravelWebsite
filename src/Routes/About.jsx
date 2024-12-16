@@ -1,7 +1,7 @@
 
 import Navbar from "../Navbar/Navbar";
 import "../Main/Main.css";
-import video from "../../src/Assets/Videos/video3.mp4";
+import video from "../Assets/Videos/video3.mp4";
 import Footer from "../Footer/Footer";
 import Aboutus from "../Aboutus/Aboutus";
 
