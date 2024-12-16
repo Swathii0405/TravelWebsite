@@ -14,7 +14,7 @@ const Contact =()=>{
 
          
 <Navbar/>
-<img src={contactusimg}/>
+<img src={contactusimg} alt="Contact us"/>
         <Contactus/>
         <Footer/>
         </>
