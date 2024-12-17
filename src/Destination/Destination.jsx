@@ -11,8 +11,8 @@ const Destination = ()=>{
     return(
        <div className="destination">
         <h1>Popular Destination</h1>
-        <p>A trip is a journey where you travel from one place to another, 
-            usually for a short period of time, and then return.</p>
+        <p><b>A trip is a journey where you travel from one place to another, 
+            usually for a short period of time, and then return.</b></p>
         
           <DestinationData 
           className="first-des"

@@ -33,7 +33,7 @@ img{
     transform: translate(-50%, -50%);
     width:100%;
     margin-top: 50px;
-    
+   
    
 }
 
@@ -49,6 +49,7 @@ img{
     font-size: 20px;
     color: #fff;
     padding: 8px 0 32px 0;
+  
 
 }
 
@@ -76,13 +77,15 @@ img{
   @media screen and (max-width: 850px) {
     .main-mid {
         height: 60vh; 
+        margin-top:150px;
     }
 
     .main-text {
         width: 80%;
         top: 50%;
-        margin-top: 5px;
+         margin-top: 30px; 
         line-height: 30px;
+       
         
     }
 
@@ -90,15 +93,17 @@ img{
         font-size: 32px; 
         padding: 160px 0 0 0; 
         color: white;
+        
 
     }
 
     .main-text p {
         font-size: 18px; 
         padding:0;
-        color: wheat;
-       
-        
+        color: black;
+        font-size: large;
+        font-weight: bold;
+      
     }
 
     .main-text .show {
@@ -107,14 +112,9 @@ img{
         font-size: 15px;
         background-color: rgb(204, 195, 195);
         color: black;   
+        margin-top:150px;
        
     }
-
-
-    
-
-    
-
     
 }  
  

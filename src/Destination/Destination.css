@@ -65,20 +65,28 @@
 @media screen and (max-width:850px) {
 
     .destination{
-        margin: 64px 32px;
+        margin: 70px 70px;
+    
     }
+
+    .destination>h1{
+        margin-top:400px;
+    }
+
+    
    
     .first-des{
         display: flex;
         flex-direction: column-reverse;
         align-items: center;
         justify-content: space-between;
-        margin-top: 40px;
+        margin-top: 50px;
 
     }
 
     .des-text{
         width: 100%;
+        
     }
 
     .image{
