@@ -2,9 +2,10 @@
 
 import "./Trip.css";
 import TripData from "./TripData";
-import switzerlandimg from "./Assets/Images/switzerlandimg.jpg";
-import tajmahalimg from "./Assets/Images/tajmahalimg.jpg";
-import malaysiaimg from "./Assets/Images/malaysiaimg.jpg";
+
+import switzerlandimg from "../Assets/Images/switzerlandimg.jpg";
+import tajmahalimg from "../Assets/Images/tajmahalimg.jpg";
+import malaysiaimg from "../Assets/Images/malaysiaimg.jpg";
 
 
 const Trip =()=>{
