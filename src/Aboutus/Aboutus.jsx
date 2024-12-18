@@ -70,7 +70,8 @@ const Aboutus = () =>{
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour"style={{fontFamily:"sans-serif"}}>
-      Hotels in India’s Top Spots
+      Hotels in India's Top Spotsgit push origin main
+
       </button>
     </h2>
     <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
