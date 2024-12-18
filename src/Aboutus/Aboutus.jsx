@@ -43,7 +43,7 @@ const Aboutus = () =>{
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo"style={{fontFamily:"sans-serif"}}>
-      Booking Flights with Make a Memory Travel
+      Flights with Make a Memory Travel
       </button>
     </h2>
     <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -56,7 +56,7 @@ const Aboutus = () =>{
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree"style={{fontFamily:"sans-serif"}}>
-      Domestic Flights with Make a Memory Travel
+      Flights Across India
       </button>
     </h2>
     <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
@@ -70,7 +70,7 @@ const Aboutus = () =>{
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour"style={{fontFamily:"sans-serif"}}>
-      Book Hotels in India from Top Destinations
+      Hotels in India’s Top Spots
       </button>
     </h2>
     <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
