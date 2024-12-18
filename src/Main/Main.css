@@ -91,9 +91,14 @@ img{
 
     .main-text h1 {
         font-size: 20px; 
+<<<<<<< HEAD
         padding: 200px 0 0 0; 
         color: white;
         margin-top: 10px;
+=======
+        padding: 250px 0 0 0; 
+        color: wheat;
+>>>>>>> 0918f2d4cddde7acfa0e94f0a4e0f45a5709ea7b
         
 
     }
