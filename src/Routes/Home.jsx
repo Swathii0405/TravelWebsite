@@ -17,7 +17,7 @@ const Home = () => {
       </div>
       <Main
         cName="main"
-        tittle="Your Journey Your Story"
+        tittle="Your Journey Your Story!!"
         text="Choose Your Favourite Destination."
         buttonText="Travel Journey"
         url="/trip"
