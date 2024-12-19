@@ -11,19 +11,20 @@ const Footer =()=>{
                     <p>Choose Your Favourite Destination</p>
                 </div>
                 <div>
-                    <a href="./">
-                    <i className="fa-brands fa-facebook-square"></i>
-                    </a>
-                    <a href="./">
-                    <i className="fa-brands fa-instagram-square"></i>
-                    </a>
-                    <a href="./">
-                    <i className="fa-brands fa-behance-square"></i>
-                    </a>
-                    <a href="./">
-                    <i className="fa-brands fa-twitter-square"></i>
-                    </a>
-                </div>
+    <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+        <i className="fa-brands fa-facebook-square"></i>
+    </a>
+    <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+        <i className="fa-brands fa-instagram-square"></i>
+    </a>
+    <a href="https://www.behance.net" target="_blank" rel="noopener noreferrer">
+        <i className="fa-brands fa-behance-square"></i>
+    </a>
+    <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">
+        <i className="fa-brands fa-twitter-square"></i>
+    </a>
+</div>
+
             </div>
                  
                  <div className="bottom">
